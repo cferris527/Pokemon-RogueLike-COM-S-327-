@@ -4,7 +4,7 @@ Name: Connor Ferris
 
 I took this class the fall 2023 semester at Iowa State.
 
-It was taught by Dr. Jeremy Shaeffer.
+It was taught by Dr. Jeremy Sheaffer.
 
 Throughout the semester, we worked on a Pokemon RogueLike game project, initially written in C, and later ported to C++.
 
@@ -92,7 +92,7 @@ For each case of your rod, the following situations may occur, with a certain pe
 
 # Important Notes
 
-Dr Shaeffer released his code after every assignment was due, and students were allowed to build off his code for the next assignment. I elected NOT to do this for any assignment! All code included in this repository is 100% mine, made from scratch, you name it.
+Dr Sheaffer released his code after every assignment was due, and students were allowed to build off his code for the next assignment. I elected NOT to do this for any assignment! All code included in this repository is 100% mine, made from scratch, you name it.
 
 As state earlier, this code started in C, but was later ported to C++.
 
